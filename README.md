@@ -12,10 +12,12 @@ To contribute to cutting-edge projects in **mechanical design and product develo
 - Advanced **CAD/CAM techniques**  
 - Exploring **simulation tools** like MATLAB and Fusion 360  
 - Enhancing my knowledge in **automation and robotics**
-- 
+ 
 ---
+
 ### My Certificate:  
 <img src="./certificate.png" alt="Certificate" width="400px">
+
 ---
 
 ## 👀 **Interests**  
