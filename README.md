@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm Neeraj  
 
 🚀 **About Me**  
-As a **final-year Mechanical Engineering student**, I am passionate about exploring and solving engineering challenges through design, simulations, and innovative problem-solving. I thrive at the intersection of creativity and technology, with a strong foundation in **CAD modeling, engineering analysis, and CNC programming**.  
+As a **final-year Mechanical Engineering student**, I am passionate about exploring and solving engineering challenges through design, simulations, and innovative problem-solving. I thrive at the intersection of creativity and technology, with a strong foundation in **CAD modeling, engineering analysis**.  
 
 🌟 **My Goal:**  
 To contribute to cutting-edge projects in **mechanical design and product development** by applying my technical expertise and continuously evolving my skills.  
@@ -21,15 +21,13 @@ To contribute to cutting-edge projects in **mechanical design and product develo
 ---
 
 ## 👀 **Interests**  
-- **CAD Modeling**: Creating innovative and efficient designs using tools like CATIA, SolidWorks, and NX CAD.  
-- **CNC Programming & Simulations**: Transforming concepts into reality with precision manufacturing.  
+- **CAD Modeling**: Creating innovative and efficient designs using tools like CATIA, SolidWorks, and NX CAD.    
 - **Product Development**: From ideation to prototyping and testing.  
 
 ---
 
 ## 💼 **Key Skills**  
-- **CAD/CAM** (AutoCAD, SolidWorks, NX CAD, CATIA)  
-- **CNC Programming**  
+- **CAD/CAM** (AutoCAD, SolidWorks, NX CAD, CATIA)    
 - **MATLAB**  
 - **Teamwork & Project Management**  
 - **Problem-solving & Innovation**  
